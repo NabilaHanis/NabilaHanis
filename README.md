@@ -1,5 +1,10 @@
 ## Howdy! I'm Nabila 👋
 
+🛠️ Tools
+Language: SQL, Python, JavaScript
+Database: MySQL
+Visualization: Tableau
+
 <!--
 **NabilaHanis/NabilaHanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
