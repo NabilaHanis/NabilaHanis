@@ -28,4 +28,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+# Ref Links:
+- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+- https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
+- https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks
+- https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams
+- https://github.com/abhisheknaiidu/awesome-github-profile-readme
+- https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md
 -->
