@@ -10,6 +10,8 @@ Database: MySQL
 Visualization: Tableau
 
 ### 👋🏻 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/nabilahanis/)
+
 
 <!--
 **NabilaHanis/NabilaHanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
