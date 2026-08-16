@@ -4,12 +4,12 @@ Howdy! I am a Data Enthusiast that is currently based in Texas, USA. I graduated
 
 I enjoy transforming Big Data into powerful and visualizing storytelling tool for everyone to appreciate. Real data can be messy but it does not have to work against you. Let me help transform your cluttered and disorganized data into powerful visualization of knowledge.
 
-### 🛠️ Tools
+### ⚙️ Tools
 - Language: SQL, Python, JavaScript
 - Database: MySQL
 - Visualization: Tableau
 
-### 👋🏻 Connect with Me
+### 👥 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/nabilahanis/)
 
 
