@@ -1,4 +1,8 @@
-## Howdy! I'm Nabila 👋
+## Texan's Data Enthusiast 🤠
+
+Howdy! I am a Data Enthusiast that is currently based in Texas, USA. I graduated and received my Post Graduate program in Data Science and Business Analytics from University of Texas in Austin.
+
+I enjoy transforming Big Data into powerful and visualizing storytelling tool for everyone to appreciate. Real data can be messy but it does not have to work against you. Let me help transform your cluttered and disorganized data into powerful visualization of knowledge.
 
 🛠️ Tools
 Language: SQL, Python, JavaScript
