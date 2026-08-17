@@ -6,7 +6,7 @@ I enjoy transforming Big Data into powerful and visualizing storytelling tool fo
 
 ### 📚 Projects
 
-- Link 1
+- [GitHub](https://github.com/NabilaHanis/GitHub-Portfolio)
 - Link 2
 
 ### 🛠️ Tools
