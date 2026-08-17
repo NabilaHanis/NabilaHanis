@@ -41,4 +41,5 @@ Here are some ideas to get you started:
 - https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams
 - https://github.com/abhisheknaiidu/awesome-github-profile-readme
 - https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md
+- https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7/
 -->
