@@ -8,6 +8,7 @@ I enjoy transforming Big Data into powerful and visualizing storytelling tool fo
 
 - [GitHub](https://github.com/NabilaHanis/GitHub-Portfolio)
 - [Tableau Public](https://public.tableau.com/app/profile/nabila.hanis)
+- [Kaggle](https://www.kaggle.com/nabilahanis)
 
 
 ### 🛠️ Tools
