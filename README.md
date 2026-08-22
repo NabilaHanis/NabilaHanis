@@ -1,4 +1,4 @@
-##  Texan's Data Enthusiast 🐎
+## · · ─ ·✶· ─ · · Texan's Data Enthusiast · · ─ ·✶· ─ · ·
 
 Howdy! I am a Data Enthusiast that is currently based in Texas, USA. I graduated and received my Post Graduate program in Data Science and Business Analytics from University of Texas in Austin.
 
